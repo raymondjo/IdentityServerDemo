@@ -542,11 +542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\IdentityServer\\IdentityServer.csproj",
+      "projectPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\IdentityServer\\IdentityServer.csproj",
       "packagesPath": "C:\\Users\\raymond\\.nuget\\packages\\",
-      "outputPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\IdentityServer\\obj\\",
+      "outputPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

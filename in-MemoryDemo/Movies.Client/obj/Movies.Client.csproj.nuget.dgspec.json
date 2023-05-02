@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.Client\\Movies.Client.csproj": {}
+    "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.Client\\Movies.Client.csproj": {}
   },
   "projects": {
-    "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.Client\\Movies.Client.csproj": {
+    "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.Client\\Movies.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.Client\\Movies.Client.csproj",
+        "projectUniqueName": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.Client\\Movies.Client.csproj",
         "projectName": "Movies.Client",
-        "projectPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.Client\\Movies.Client.csproj",
+        "projectPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.Client\\Movies.Client.csproj",
         "packagesPath": "C:\\Users\\raymond\\.nuget\\packages\\",
-        "outputPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.Client\\obj\\",
+        "outputPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.API\\Movies.API.csproj": {}
+    "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.API\\Movies.API.csproj": {}
   },
   "projects": {
-    "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.API\\Movies.API.csproj": {
+    "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.API\\Movies.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.API\\Movies.API.csproj",
+        "projectUniqueName": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.API\\Movies.API.csproj",
         "projectName": "Movies.API",
-        "projectPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.API\\Movies.API.csproj",
+        "projectPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.API\\Movies.API.csproj",
         "packagesPath": "C:\\Users\\raymond\\.nuget\\packages\\",
-        "outputPath": "E:\\in sdb\\tasks\\identity server 4 Demo Final\\Movies.API\\obj\\",
+        "outputPath": "E:\\in sdb\\tasks\\documents\\demo\\git\\identityServerDemo\\in-MemoryDemo\\Movies.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
